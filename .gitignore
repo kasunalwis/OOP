@@ -1,0 +1,7 @@
+# Igonre List
+.idea/
+*.iml
+*.ipr
+*.iws
+target/
+out/
