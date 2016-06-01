@@ -1,4 +1,4 @@
-package com.company.MethodOverloading;
+package com.company.methodoverloading;
 
 /**
  * Created by kalwis on 6/1/2016.
